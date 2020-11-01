@@ -1,0 +1,8 @@
+echo "# NEOw" >> NEOw josn.md
+git init
+git add NEOw josn.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jim168168/NEOw.git
+git push -u origin main
+                
