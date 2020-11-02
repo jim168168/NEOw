@@ -1,0 +1,25 @@
+{
+    "name":"NEOW",
+    "logoURI":"https://http://image109.360doc.cn/DownloadImg/2018/08/0710/140572304_1_20180807100719481",
+    "keywords":[
+        "NEO Wrapped",
+        "NEOW",
+        "370000"
+    ],
+    "timestamp":"2020-09-01T01:40:34.305Z",
+    "tokens":[
+        {
+            "chainId":1,
+            "address":"0xE34f3ecEc8543a4B5cE320dAA13179B5BBF45dFe",
+            "name":"NEO Wrapped",
+            "symbol":"NEOW",
+            "decimals":18,
+            "logoURI":"https://http://image109.360doc.cn/DownloadImg/2018/08/0710/140572304_1_20180807100719481"
+        }
+    ],
+    "version":{
+        "major":0,
+        "minor":0,
+        "patch":0
+    }
+}
